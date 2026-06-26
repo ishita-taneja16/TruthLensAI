@@ -1,4 +1,4 @@
-# 🕵️ TruthLensAI – AI-Based Lie Detection System
+# 🕵️ TruthLensAI – RAG-Enabled Generative AI Lie Detection Platform with Agentic Workflows
 
 > An AI-powered lie detection and interview intelligence system that leverages Retrieval-Augmented Generation (RAG), multi-agent orchestration, and semantic memory to conduct adaptive interviews. The system retrieves relevant conversational context using vector search and generates intelligent follow-up questions using Gemini for behavioral consistency analysis.
 
